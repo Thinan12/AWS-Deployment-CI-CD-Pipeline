@@ -4,8 +4,9 @@ const PORT = 4000;
 
 app.get("/", (req, res) => {
   res.send(`
-    <h1>Node.js App is Running Successfully!</h1>
-    <p>Deployed automatically using GitHub Actions + AWS EC2</p>
+    <h1>AWS Deployment CI/CD Pipeline Working</h1>
+    <p>Node.js app is running on port 4000</p>
+    <p>Public IP: 34.229.210.53</p>
   `);
 });
 

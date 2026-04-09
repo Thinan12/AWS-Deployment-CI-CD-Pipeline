@@ -1,5 +1,3 @@
-# AWS-Deployment-CI-CD-Pipeline
-
 # 🚀 AWS Deployment CI/CD Pipeline
 
 This project demonstrates a complete CI/CD pipeline that automatically deploys a Node.js application to an AWS EC2 Ubuntu instance using GitHub Actions.
